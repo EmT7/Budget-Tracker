@@ -21,7 +21,8 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "compression": "^1.7.4",
-    "express": "^4.17.1",
+    "express": "^4.17.2",
+    "image-webpack-loader": "^8.1.0",
     "jquery": "^3.6.0",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1",
@@ -29,7 +30,9 @@
     "save": "^2.4.0"
   },
   "devDependencies": {
+    "file-loader": "^6.2.0",
     "webpack": "^4.46.0",
+    "webpack-bundle-analyzer": "^4.5.0",
     "webpack-cli": "^4.6.0"
   }
 }
