@@ -19,9 +19,17 @@
   },
   "homepage": "https://github.com/MirandaT77/Budget-Tracker",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "compression": "^1.7.4",
     "express": "^4.17.1",
+    "jquery": "^3.6.0",
     "mongoose": "^5.5.15",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "popper.js": "^1.16.0",
+    "save": "^2.4.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.6.0"
   }
 }
